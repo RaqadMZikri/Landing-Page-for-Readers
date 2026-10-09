@@ -1,0 +1,6 @@
+{
+  "name": "Velorah - Where Dreams Rise",
+  "description": "A cinematic hero experience designing digital spaces for sharp focus and inspired work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
